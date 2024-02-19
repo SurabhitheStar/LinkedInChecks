@@ -4,7 +4,6 @@ import com.surabhi.test.pages.HomePage;
 import com.surabhi.test.pages.LoginPage;
 import org.surabhi.Base.ConfigReader;
 import org.surabhi.Base.Browser;
-import org.surabhi.Base.Settings;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
