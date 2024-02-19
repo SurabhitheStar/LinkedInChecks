@@ -44,10 +44,9 @@ public class JobApplicationSettingsPage extends BasePage {
 
     public void uploadResumeFile(String file) throws InterruptedException {
         Thread.sleep(3000);
-        Upload_Resume.sendKeys(System.getProperty("user.dir")+"\\src\\org\\Utilities\\"+file);
+        Upload_Resume.sendKeys(System.getProperty("user.dir")+"\\src\\test\\java\\com\\Utilities\\"+file);
         log.info("Resume upload Successful");
     }
-
     public boolean Resumeuploaded() throws InterruptedException {
         Thread.sleep(3000);
         return CheckExisting_Resume.isDisplayed();
