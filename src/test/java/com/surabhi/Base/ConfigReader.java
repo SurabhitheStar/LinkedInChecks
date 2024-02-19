@@ -10,7 +10,7 @@ public class ConfigReader {
     static FileInputStream fis;
 
     public static void readconfig() throws IOException {
-        fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\org\\surabhi\\Globalconfig.properties");
+        fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\java\\com\\surabhi\\Globalconfig.properties");
         p.load(fis);
         Settings.url = p.getProperty("ApplicationUrl");
         Settings.BrowserType = p.getProperty("BrowserType");
