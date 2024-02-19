@@ -105,7 +105,7 @@
         <configuration>
           <testFailureIgnore>false</testFailureIgnore>
           <suiteXmlFiles>
-            <suiteXmlFile>src/test/resources/runner/testng.xml</suiteXmlFile>
+            <suiteXmlFile>src/test/resource/runner/testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
