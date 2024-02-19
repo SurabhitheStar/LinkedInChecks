@@ -1,4 +1,4 @@
-package com.org.surabhi.Base;
+package com.surabhi.Base;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;

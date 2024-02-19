@@ -1,6 +1,6 @@
-package com.org.surabhi.test.pages;
+package com.surabhi.test.pages;
 
-import com.org.surabhi.Base.BasePage;
+import com.surabhi.Base.BasePage;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;

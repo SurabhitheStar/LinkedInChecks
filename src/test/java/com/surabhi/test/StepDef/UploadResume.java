@@ -1,6 +1,6 @@
-package com.org.surabhi.test.StepDef;
+package com.surabhi.test.StepDef;
 
-import com.org.surabhi.test.pages.JobApplicationSettingsPage;
+import com.surabhi.test.pages.JobApplicationSettingsPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import org.testng.Assert;

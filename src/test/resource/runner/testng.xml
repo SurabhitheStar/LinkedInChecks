@@ -3,7 +3,7 @@
 <suite name="LinkedIn Checks">
     <test thread-count="1" name="Test">
         <classes>
-            <class name="com.org.surabhi.test.runner.Runner"/>
+            <class name="com.surabhi.test.runner.Runner"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
