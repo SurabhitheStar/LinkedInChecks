@@ -1,4 +1,4 @@
-package com.surabhi.test.org.surabhi.Base;
+package org.surabhi.Base;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

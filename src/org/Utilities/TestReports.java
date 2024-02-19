@@ -1,4 +1,4 @@
-package com.surabhi.test.org.Utilities;
+package org.Utilities;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
