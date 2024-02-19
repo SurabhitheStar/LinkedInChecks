@@ -1,11 +1,11 @@
-package com.surabhi.test.StepDef;
+package com.org.surabhi.test.StepDef;
 
-import com.surabhi.test.pages.HomePage;
-import com.surabhi.test.pages.LoginPage;
+import com.org.surabhi.test.pages.HomePage;
+import com.org.surabhi.test.pages.LoginPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
-import com.surabhi.test.org.surabhi.Base.Browser;
+import com.org.surabhi.Base.Browser;
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;

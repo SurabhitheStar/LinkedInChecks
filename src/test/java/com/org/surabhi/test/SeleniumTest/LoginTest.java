@@ -1,9 +1,9 @@
-package com.surabhi.test.SeleniumTest;
+package com.org.surabhi.test.SeleniumTest;
 
-import com.surabhi.test.pages.HomePage;
-import com.surabhi.test.pages.LoginPage;
-import com.surabhi.test.org.surabhi.Base.ConfigReader;
-import com.surabhi.test.org.surabhi.Base.Browser;
+import com.org.surabhi.Base.Browser;
+import com.org.surabhi.Base.ConfigReader;
+import com.org.surabhi.test.pages.HomePage;
+import com.org.surabhi.test.pages.LoginPage;
 import org.testng.annotations.Test;
 
 import java.io.IOException;

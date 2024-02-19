@@ -1,4 +1,4 @@
-package com.surabhi.test.SeleniumTest;
+package com.org.surabhi.test.SeleniumTest;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

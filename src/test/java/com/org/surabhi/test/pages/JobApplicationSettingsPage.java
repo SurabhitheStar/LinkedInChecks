@@ -1,11 +1,11 @@
-package com.surabhi.test.pages;
+package com.org.surabhi.test.pages;
 
+import com.org.surabhi.Base.BasePage;
+import com.org.surabhi.Base.DriverContext;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import com.surabhi.test.org.surabhi.Base.BasePage;
-import com.surabhi.test.org.surabhi.Base.DriverContext;
 
 import java.util.List;
 

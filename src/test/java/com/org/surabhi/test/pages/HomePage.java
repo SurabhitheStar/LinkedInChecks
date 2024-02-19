@@ -1,12 +1,12 @@
-package com.surabhi.test.pages;
+package com.org.surabhi.test.pages;
 
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import com.surabhi.test.org.surabhi.Base.BasePage;
-import com.surabhi.test.org.surabhi.Base.DriverContext;
+import com.org.surabhi.Base.BasePage;
+import com.org.surabhi.Base.DriverContext;
 
 public class HomePage extends BasePage {
     Actions action;

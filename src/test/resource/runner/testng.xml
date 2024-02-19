@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Data Driven Test">
+<suite name="LinkedIn Checks">
     <test thread-count="1" name="Test">
         <classes>
-            <class name="com.surabhi.test.runner.Runner"/>
+            <class name="com.org.surabhi.test.runner.Runner"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
