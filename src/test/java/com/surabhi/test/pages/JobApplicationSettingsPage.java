@@ -4,8 +4,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import org.surabhi.Base.BasePage;
-import org.surabhi.Base.DriverContext;
+import com.surabhi.test.org.surabhi.Base.BasePage;
+import com.surabhi.test.org.surabhi.Base.DriverContext;
 
 import java.util.List;
 

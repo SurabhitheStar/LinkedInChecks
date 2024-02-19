@@ -5,7 +5,7 @@ import com.surabhi.test.pages.LoginPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
-import org.surabhi.Base.Browser;
+import com.surabhi.test.org.surabhi.Base.Browser;
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;
