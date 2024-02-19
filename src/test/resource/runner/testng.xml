@@ -3,7 +3,7 @@
 <suite name="Data Driven Test">
     <test thread-count="1" name="Test">
         <classes>
-            <class name="resource.runner.Runner"/>
+            <class name="com.surabhi.test.runner.Runner"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
