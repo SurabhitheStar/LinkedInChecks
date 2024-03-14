@@ -17,7 +17,7 @@ public class JobSearch {
         Browser.setupBrowser();
         Browser.goToUrl();
         LoginPage lp = new LoginPage();
-        HomePage pg = lp.loginlinkedIn("surabhijais2109@gmail.com","Ssur@8984");
+        HomePage pg = lp.loginlinkedIn("abc@gmail.com","test@123");
 
     }
     @And("I Verify user {string} is logged in")
